@@ -12,7 +12,7 @@ import { NopagefoundComponent } from './shared/nopagefound/nopagefound.component
 
 
 const routes: Routes = [
-    { 
+    {
         path: '',
         component: PagesComponent,
         children: [
